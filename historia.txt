@@ -1,1 +1,3 @@
-Para empezar a programar en este entorno de desarrollo, primero configuramos el editor de código. Después, instalamos las extensiones necesarias y descargamos el repositorio con los archivos del proyecto. Al final, ejecutamos el código por primera vez para comprobar que todo funciona de forma correcta.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Proin id sollicitudin lorem, vel laoreet felis.
+Aenean non dictum sapien, eget eleifend erat
